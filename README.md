@@ -1,8 +1,18 @@
 # Sobre mim 👋
 
-Olá, me chamo Pietra, possuo graduação em Enfermagem, mas estou em transição para a área da tecnologia. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e Desenvolvimento Web Full Stack. 
+Olá, me chamo Pietra, em 2022 transicionei de carreira, saindo da enfermagem e entrando na área de tecnologia. Iniciei com um curso do Programaria relacionado a HTML, CSS e JavaScript, onde tive o primeiro contato com a programação. Logo em seguida comecei a faculdade em Análise e Desenvolvimento de Sistemas, assim como mantive atualizada realizando outros bootcamps e cursos na área.
 
-Tenho interesse por Programação, estou fazendo alguns cursos e costumo postar a documentação dos meus códigos aqui no GitHub. Até o momento eu tive contato com as linguagens HTML, CSS, JavaScript e Java, de frameworks tive contato com Vue.js. Porém, estou estudando para ser Full Stack Developer.
+No fim de 2022 consegui minha primeira oportunidade na área de tecnologia em uma startup da área da saúde, atuando como Desenvolvedora Junior.
+
+Objetivo: Desenvolvimento back-end, front-end e full-stack.
+
+Já trabalhei com as seguintes ferramentas:
+
+• Back-end: C#, .Net, ASP.NET, Postman e Java
+• Front-end: Vue.JS, NodeJS, JavaScript, HTML, CSS, ReactJS e Cypress
+• Bancos de dados: SQL Server e MySQL
+• Versionamento de código: Git (Github)
+• Nuvem: Azure
 
 ---
 
@@ -12,6 +22,7 @@ Tenho interesse por Programação, estou fazendo alguns cursos e costumo postar 
 
 ### 🔨 Ferramentas
 
+[<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />](https://twitter.com/pietrastar)
 [<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />](https://twitter.com/pietrastar)
 [<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />](https://twitter.com/pietrastar)
 [<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />](https://twitter.com/pietrastar)
