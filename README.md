@@ -8,11 +8,15 @@ Objetivo: Desenvolvimento back-end, front-end e full-stack.
 
 Já trabalhei com as seguintes ferramentas:
 
-• Back-end: C#, .Net, ASP.NET, Postman e Java
-• Front-end: Vue.JS, NodeJS, JavaScript, HTML, CSS, ReactJS e Cypress
-• Bancos de dados: SQL Server e MySQL
-• Versionamento de código: Git (Github)
-• Nuvem: Azure
+- Back-end: C#, .Net, ASP.NET, Postman e Java
+
+- Front-end: Vue.JS, NodeJS, JavaScript, HTML, CSS, ReactJS e Cypress
+
+- Bancos de dados: SQL Server e MySQL
+
+- Versionamento de código: Git (Github)
+
+- Nuvem: Azure
 
 ---
 
